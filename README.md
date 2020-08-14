@@ -1,4 +1,4 @@
-# deivisondeivin
+# Proffy - NLW2
 
 Projeto em desenvolvimento entre 03/08/2020 a 09/08/2020 baseado em um design feito pela equipe da Rocketseat.
 
